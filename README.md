@@ -1,6 +1,6 @@
 # Madhav_Store_PowerBI_Dashboard
 
-![Dashboard1](https://github.com/Parashu96/Madhav_Store_PowerBI_Dashboard/assets/121815820/6a5da9ee-47ed-40cc-955b-e6b0a08f4a04)
+![Dashboard1](https://github.com/Zahidpcw/Madhav_Store_PowerBI_Dashboard/blob/main/Madhav_Store_PowerBI_Dashboard-PNG.PNG)
 
 
 
